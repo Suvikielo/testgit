@@ -1,5 +1,5 @@
 This is my readme file
 \~/
 
-^^ hey I want a drink too
+^^ actually I want two drinks
 
